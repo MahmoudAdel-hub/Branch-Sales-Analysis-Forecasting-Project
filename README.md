@@ -9,7 +9,7 @@ This repository contains the code and documentation for a branch sales forecasti
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Models and Methods](#models-and-methods)
-4. Check assumptions
+4. Check assumptions ( Inside Notebook )
 
 ## Introduction
 
